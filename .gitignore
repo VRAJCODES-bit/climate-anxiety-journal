@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+journal_data.json
+mood_data.json
