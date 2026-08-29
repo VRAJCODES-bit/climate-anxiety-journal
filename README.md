@@ -2,7 +2,7 @@
 
 A private journaling and mood-tracking tool for processing climate anxiety — casual, judgment-free, and built to actually be used, not just opened once and abandoned.
 
-🔗 [Try it live](#) *(add your Streamlit link after deployment)*
+🔗 [Try it live](https://climate-anxiety-journal-uot3rdysdvd3z4bb5rx4dv.streamlit.app)
 
 ## Features
 
